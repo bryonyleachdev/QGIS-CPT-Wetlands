@@ -4,6 +4,6 @@ QGIS map of Waterways and Wetlands around Cape Town, South Africa
 Map shows wetland bodies and their tributaries, as well as other watercourses around Cape Town
 Built using data from the City of Cape Town's OpenData Portal
 
-(This map is cropped to fit within Github file size limits)
+(This project has been cropped to fit within Github file size limits)
 
 Updated January 2025
